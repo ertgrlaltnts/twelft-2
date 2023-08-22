@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056108562158",
+    "project_id": "twelfth-d2096",
+    "storage_bucket": "twelfth-d2096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056108562158:android:e7a58c3b596fdb2ec895ff",
+        "android_client_info": {
+          "package_name": "com.twelfth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056108562158-glvem0plbtsidr7li885nhivbapr003f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twelfth",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1056108562158-k377a1svuq2c9urhg6a0vllp9r1da43t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPnYNE3XT9YAGvIKelrtzEOYfNajjm6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056108562158-k377a1svuq2c9urhg6a0vllp9r1da43t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
